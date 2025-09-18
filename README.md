@@ -87,7 +87,3 @@ Researchers can leverage this repository to:
 4. DisGeNET, IMPPAT 2.0, SWISS-PROT, UniProt documentation
 
 ---
-
-## License
-
-Specify your license here (e.g., MIT, GPL, or CC-BY 4.0)
